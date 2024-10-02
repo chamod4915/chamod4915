@@ -40,18 +40,33 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
+ <h2 align="center">My Statistic</h2><br>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="55%" align="center">
+<p align=center>
   
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chamod4915&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+  <div align=center>
+          <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="center" width=450 src="https://github-readme-stats.vercel.app/api?username=chamod4915&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=false" />
     </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamod4915&theme=react&line_height=40&hide=css"/>
+      <br>
+       <br>
+     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="center" width=450 src="http://github-readme-streak-stats.herokuapp.com?user=chamod4915&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/> 
     </a>
-</div
-
-<br/>
+    
+  </div>
+  <br>
+  
+</p>
+</td>
+<td width="45%" align="center">
+  <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamod4915&count_private=true&theme=gotham&hide&langs_count=6"/>
+</td>
+</tr>
+</table> 
 
 <br>
 

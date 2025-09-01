@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 <h1 align="center">Hi 👋, I'm Chamod</h1>
-<h2 align="center">Undergraduate Software Engineer at NSBM Green University affiliated Plymouth University United Kingdom </h2>
+<h2 align="center">Undergraduate Software Engineer at Plymouth University United Kingdom </h2>
 <img align="right" alt="Coding" width="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw">
 
 - 🔭 I’m currently working on [Create a Website for Clothing Brand]
